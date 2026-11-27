@@ -1,5 +1,5 @@
 a = 5
 b = 10
 
-print("Addition:", a + b)
-print("Subtract:", a - b)
+print("Addition (develop):", a + b)
+print("Subtract (develop):", a - b)
