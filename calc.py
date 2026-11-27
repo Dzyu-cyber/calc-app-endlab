@@ -1,5 +1,7 @@
 a = 5
 b = 10
 
-print("Addition:", a + b)
-print("Subtract:", a - b)
+print("Add:", a + b)
+print("Sub:", a - b)
+print("Mul:", a * b)
+print("Div:", a / b)
